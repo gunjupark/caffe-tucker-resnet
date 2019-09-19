@@ -1,0 +1,8 @@
+# model files
+*.caffemodel
+*.solverstate
+
+# swap files
+*.swp
+*.swo
+

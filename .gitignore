@@ -1,0 +1,7 @@
+# model files
+*.caffemodel
+
+# swap files
+*.swp
+*.swo
+
